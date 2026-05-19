@@ -1,0 +1,137 @@
+{
+    "Tomato___Late_blight": {
+        "description": "Late blight is a fungal disease that causes dark brown lesions on tomato leaves and fruits. It spreads rapidly in humid conditions.",
+
+        "treatment": [
+            "Remove infected leaves immediately",
+            "Apply copper-based fungicide",
+            "Avoid overhead watering",
+            "Maintain proper plant spacing"
+        ],
+
+        "sustainable_tips": [
+            "Use organic compost",
+            "Practice crop rotation",
+            "Use neem oil spray",
+            "Water plants early morning"
+        ]
+    },
+
+    "Tomato___Leaf_Mold": {
+        "description": "Leaf mold is a fungal disease that appears as pale green or yellow spots on the upper side of tomato leaves with olive-green mold underneath.",
+
+        "treatment": [
+            "Remove infected leaves",
+            "Apply fungicide spray",
+            "Improve greenhouse ventilation",
+            "Reduce humidity levels"
+        ],
+
+        "sustainable_tips": [
+            "Use drip irrigation",
+            "Avoid overcrowding plants",
+            "Maintain proper airflow",
+            "Use organic compost and mulch"
+        ]
+    },
+
+    "Tomato___healthy": {
+        "description": "The tomato plant appears healthy with no visible disease symptoms.",
+
+        "treatment": [
+            "No treatment required",
+            "Continue regular monitoring"
+        ],
+
+        "sustainable_tips": [
+            "Use balanced organic fertilizer",
+            "Maintain soil moisture",
+            "Provide proper sunlight"
+        ]
+    },
+
+    "Tomato___Early_blight": {
+        "description": "Early blight causes dark concentric spots on leaves and can weaken tomato plants significantly.",
+
+        "treatment": [
+            "Remove infected leaves",
+            "Apply fungicide treatment",
+            "Avoid overhead watering",
+            "Use disease-resistant varieties"
+        ],
+
+        "sustainable_tips": [
+            "Rotate crops annually",
+            "Use mulching to prevent soil splash",
+            "Maintain healthy soil nutrition",
+            "Provide proper plant spacing"
+        ]
+    },
+
+    "Tomato___Bacterial_spot": {
+        "description": "Bacterial spot causes dark lesions on tomato leaves and fruits, reducing crop quality and yield.",
+
+        "treatment": [
+            "Remove infected plant parts",
+            "Apply copper-based bactericide",
+            "Avoid working with wet plants",
+            "Use certified disease-free seeds"
+        ],
+
+        "sustainable_tips": [
+            "Practice crop rotation",
+            "Improve field drainage",
+            "Use organic mulch",
+            "Disinfect gardening tools regularly"
+        ]
+    },
+
+    "Potato___Early_blight": {
+        "description": "Early blight causes concentric dark spots on potato leaves and reduces crop yield.",
+
+        "treatment": [
+            "Remove infected foliage",
+            "Apply suitable fungicide",
+            "Avoid wet leaves for long periods"
+        ],
+
+        "sustainable_tips": [
+            "Use disease-free seeds",
+            "Rotate crops annually",
+            "Improve air circulation"
+        ]
+    },
+
+    "Potato___Late_blight": {
+        "description": "Late blight is a destructive fungal disease that affects potato leaves and tubers under cool, moist conditions.",
+
+        "treatment": [
+            "Destroy infected plants",
+            "Apply fungicide immediately",
+            "Avoid excessive irrigation",
+            "Monitor plants frequently"
+        ],
+
+        "sustainable_tips": [
+            "Use resistant potato varieties",
+            "Practice proper crop rotation",
+            "Improve field ventilation",
+            "Use organic soil enrichment"
+        ]
+    },
+
+    "Potato___healthy": {
+        "description": "The potato plant appears healthy with no visible disease symptoms.",
+
+        "treatment": [
+            "No treatment required",
+            "Continue regular care"
+        ],
+
+        "sustainable_tips": [
+            "Maintain proper irrigation",
+            "Use balanced fertilizers",
+            "Monitor leaves regularly"
+        ]
+    }
+}
